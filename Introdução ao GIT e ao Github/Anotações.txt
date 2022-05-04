@@ -1,2 +1,7 @@
 Link para download do link:
-O gitbash é um terminal extendido para otimizar o git
+https://git-scm.com/downloads
+Link de acesso ao GitHub:
+https://github.com
+
+O gitbash é um terminal extendido para otimizar o git, nele foram iniciados os primeiros repositórios, dos quais, os comandos principais estão dispostos
+no links úteis dentro do "README.md".
